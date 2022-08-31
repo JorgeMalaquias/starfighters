@@ -5,3 +5,4 @@ CREATE TABLE fighters (
 	losses INTEGER NOT NULL,
 	draws INTEGER NOT NULL
 );
+
